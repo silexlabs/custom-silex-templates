@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "start:bg": "nodemon index.js &"
+    "start": "node index.js"
   },
   "dependencies": {
     "silex-website-builder": "*"
@@ -15,8 +14,5 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:silexlabs/custom-silex.git"
-  },
-  "devDependencies": {
-    "nodemon": "^1.19.0"
   }
 }

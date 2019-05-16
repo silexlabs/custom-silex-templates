@@ -58,16 +58,3 @@ $ npm start
 
 Now you can open [http://localhost:6805](http://localhost:6805) and use Silex
 
-## Build the project
-
-When you [add custom components](https://github.com/silexlabs/Silex/wiki/Create-Silex-components) or [add custom templates](https://github.com/silexlabs/Silex/wiki/Create-templates-for-Silex) you will need to rebuild Silex components and templates with this command:
-
-```
-$ npm run build
-```
-
-Or if you use Docker
-
-```
-$ docker run --privileged=true -v $PWD:/local custom-silex npm run build
-```
