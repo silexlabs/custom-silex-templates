@@ -22,13 +22,13 @@ Clone this repo
 
 ```
 $ git clone git@github.com:silexlabs/custom-silex-templates.git
-$ cd custom-silex
+$ cd custom-silex-templates
 ```
 
 Build the image
 
 ```
-$ docker build -t custom-silex .
+$ docker build -t custom-silex-templates .
 ```
 
 Install Silex and run it
@@ -47,7 +47,7 @@ Clone this repo
 
 ```
 $ git clone git@github.com:silexlabs/custom-silex-templates.git
-$ cd custom-silex
+$ cd custom-silex-templates
 ```
 
 Install Silex and run it
